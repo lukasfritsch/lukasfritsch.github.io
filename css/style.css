@@ -55,6 +55,12 @@ body {
   width: auto;
 }
 
+.fa-transportmaps {
+  content: url("/img/capy_density.png");
+  height: 1em;
+  width: auto;
+}
+
 .name {
   color: white;
   display: block;
