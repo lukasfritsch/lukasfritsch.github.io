@@ -56,7 +56,13 @@ body {
 }
 
 .fa-transportmaps {
-  content: url("/img/capy_density.png");
+  content: url("/img/tm_logo.svg");
+  height: 1em;
+  width: auto;
+}
+
+.fa-uq {
+  content: url("/img/julia_UQ_Logo_square.svg");
   height: 1em;
   width: auto;
 }
